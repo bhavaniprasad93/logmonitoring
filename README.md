@@ -35,7 +35,7 @@ HH:MM:SS, job description, START|END, PID
 
 ```bash
 bash log_monitor.sh
-
+```
 ##📋Output
 Job Report
 ===========
