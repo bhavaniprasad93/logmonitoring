@@ -36,7 +36,8 @@ HH:MM:SS, job description, START|END, PID
 ```bash
 bash log_monitor.sh
 ```
-##📋Output
+## 📋Sample Output
+
 Job Report
 ===========
 scheduled task 032 (37980): Duration 00:33 -- OK
