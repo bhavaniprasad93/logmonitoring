@@ -22,6 +22,7 @@ The input file (`logs.log`) should follow this format:
 HH:MM:SS, job description, START|END, PID
 ## Example:
 11:35:23,scheduled task 032, START,37980
+
 11:35:56,scheduled task 032, END,37980
 
 ## 💻 How to Run
