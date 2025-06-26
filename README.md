@@ -41,5 +41,7 @@ bash log_monitor.sh
 Job Report
 ===========
 scheduled task 032 (37980): Duration 00:33 -- OK
+
 scheduled task 051 (39547): Duration 11:29 -- ERROR: Job took more than 10 minutes
+
 background job tqc (52532): Duration 13:53 -- ERROR: Job took more than 10 minutes
